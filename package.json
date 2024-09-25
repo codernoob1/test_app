@@ -1,0 +1,14 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "testing for hosting the app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "saikat mazumder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
